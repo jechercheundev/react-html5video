@@ -1,5 +1,5 @@
 {
-  "name": "react-html5video",
+  "name": "@tomkis/react-html5video",
   "version": "2.0.1",
   "description": "A customizeable HTML5 Video",
   "main": "dist",
